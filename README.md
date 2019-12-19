@@ -15,7 +15,7 @@ Die Anonymisierung verfolgt die folgenden Grundsätze
 - Je höher die Hierarchiestufe, desto wertvoller die Information: Die Anonymisierung erfolgt möglichst "weit unten", sodass Informationen auf einer höheren Ebene möglichst unverändert publiziert werden können.
 
 ## Der Algorithmus
-Der Algorithmus ist in SAS geschrieben, das Vorgehen kann aber problemlos auch in anderen Programmiersprachen umgesetzt werden. Auf Grund der Parametrisierung kann er auf beliebige Hierarchien angewendet werden (siehe "Anwendung").
+Der Algorithmus ist in SAS geschrieben, das Vorgehen kann aber problemlos auch in anderen Programmiersprachen umgesetzt werden. Auf Grund der Parametrisierung kann er auf beliebige Hierarchien angewendet werden (siehe "Beispiel").
 
 ## Beispiel
 ### Inputs
