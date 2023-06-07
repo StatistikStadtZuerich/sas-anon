@@ -1,7 +1,7 @@
 # Anonymisierung von Aggregatdaten
 
 ## Motivation
-In hierarchischen Klassifikationen reicht es nicht aus, die Angaben auf der tiefsten Ebene zu maskieren. Vielmehr muss über alle Hierarchiestufen sichergestellt werden, dass Rückschlüsse auf maskierte Werte möglich sind. Dieses Vorgehen ist mühselig und -- wenn es von Hand ausgeführt wird -- fehleranfällig. Der hier publizierte SAS-Code erledigt diese Arbeit rasch und zuverlässig. 
+In hierarchischen Klassifikationen reicht es nicht aus, die Angaben auf der tiefsten Ebene zu maskieren. Vielmehr muss über alle Hierarchiestufen sichergestellt werden, dass keine Rückschlüsse auf maskierte Werte möglich sind. Dieses Vorgehen ist mühselig und -- wenn es von Hand ausgeführt wird -- fehleranfällig. Der hier publizierte SAS-Code erledigt diese Arbeit rasch und zuverlässig. 
  
 ## Vorgehen
 Das Vorgehen umfasst drei Stufen: 
